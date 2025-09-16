@@ -10,7 +10,8 @@
       "chipFamily": "ESP32-C3",
       "ota": {
         "path": "https://github.com/maxrd/daikin-s21-c3/blob/main/esphome/OTA/daikin-s21-c3.ota_1.1.bin",
-        "md5": "ab0ba7d14b1f9d446304317758bd03f7"
+        "md5": "ab0ba7d14b1f9d446304317758bd03f7",
+        "summary": "ESPHome Update -> 1.1"
       }
     }
   ]
