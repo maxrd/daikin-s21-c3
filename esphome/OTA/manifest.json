@@ -3,8 +3,6 @@
   "version": "1.2",
   "home_assistant_domain": "esphome",
   "new_install_prompt_erase": false,
-  "release_notes": "這是faikin測試更新備註",
-  "release-summary": "這是faikin測試更新備註-release-summary。",
   "builds": [
     {
       "chipFamily": "ESP32-C3",
