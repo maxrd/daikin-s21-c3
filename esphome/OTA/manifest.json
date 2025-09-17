@@ -1,14 +1,14 @@
 {
   "name": "faikin-c3",
-  "version": "1.2",
+  "version": "1.3",
   "home_assistant_domain": "esphome",
   "new_install_prompt_erase": false,
   "builds": [
     {
       "chipFamily": "ESP32-C3",
       "ota": {
-        "path": "https://github.com/maxrd/daikin-s21-c3/blob/main/esphome/OTA/daikin-s21-c3.ota_1.1.bin",
-        "md5": "fceb45cbeb3498386b351cd5b00afe45",
+        "path": "https://raw.githubusercontent.com/maxrd/daikin-s21-c3/main/esphome/OTA/daikin-s21-c3.ota_1.1.bin",
+        "md5": "e6a3aeb26980f98cc41d9011f4ae370b",
         "summary": "詳請 https://wwww.google.com.tw"
       }
     }
