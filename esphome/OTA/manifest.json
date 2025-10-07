@@ -9,7 +9,7 @@
       "ota": {
         "path": "https://raw.githubusercontent.com/maxrd/daikin-s21-c3/main/esphome/OTA/daikin-s21-c3.ota_1.1.bin",
         "md5": "e6a3aeb26980f98cc41d9011f4ae370b",
-        "summary": "詳請 https://wwww.google.com.tw"
+        "summary": "> **重要提示**  \n> OTA 後可能需要連接 Wi-Fi AP 重新連結到 Home Assistant  \n>\n> **版本：1.2 更新內容**  \n> 1. 更新 Daikin 作者版本  \n> 2. 修正濾心更換時間（天）無法儲存問題"
       }
     }
   ]
