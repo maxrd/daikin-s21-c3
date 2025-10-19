@@ -1,15 +1,15 @@
 {
   "name": "faikin-c3",
-  "version": "1.3",
+  "version": "1.4",
   "home_assistant_domain": "esphome",
   "new_install_prompt_erase": false,
   "builds": [
     {
       "chipFamily": "ESP32-C3",
       "ota": {
-        "path": "https://raw.githubusercontent.com/maxrd/daikin-s21-c3/main/esphome/OTA/daikin-s21-c3.ota_1.3.bin",
-        "md5": "f0f5c20800d9bc2cc49402e3f08b2131",
-        "summary": "> **重要提示**  \n> OTA 後可能需要連接 Wi-Fi AP 重新連結到 Home Assistant  \n>\n> **版本：1.2 更新內容**  \n> 1. 更新 Daikin 作者版本  \n> 2. 增加關機防霉功能"
+        "path": "https://raw.githubusercontent.com/maxrd/daikin-s21-c3/main/esphome/OTA/daikin-s21-c3.ota_1.4.bin",
+        "md5": "f15588732e81a7eac304c3e8b773c035",
+        "summary": "> **重要提示**  \n> OTA 後可能需要連接 Wi-Fi AP 重新連結到 Home Assistant  \n>\n> **版本：1.4 更新內容**  \n> 1. 增加關機防霉功能  \n> 2. 增加輸入控制温度欄位 \n>3.覆歸回覆先前温度設定"
       }
     }
   ]
